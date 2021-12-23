@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science at Wrocław University of Science and Technology.
-- 💼 &nbsp; Working as a Task/Processes Automation Programmer at Nokia.
+- 💼 &nbsp; Working as a Tasks/Processes Automation Programmer at Nokia.
 - 🌱 &nbsp; Learning more about Web Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -21,14 +21,14 @@
   
 - 🛢 &nbsp;
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br/>
 
@@ -42,9 +42,5 @@
 <h3> 🤝🏻 &nbsp;Contact</h3>
 
 <p align="center">
-  
-<!-- <a href="www.linkedin.com/in/jakub-tolsciuk"> -->
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-tolsciuk)
-<!-- </a> -->
-  
 </p>
