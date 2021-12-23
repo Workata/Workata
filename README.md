@@ -33,8 +33,8 @@
 <br/>
 
 <a href="https://github.com/Workata">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Workata&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Workata&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Workata&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Workata&theme=dark&layout=compact" />
 </a>
 
 <br/>
