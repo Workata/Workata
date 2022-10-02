@@ -1,12 +1,13 @@
 <h2> Hello there! I'm Jakub (Workata).</h2>
 
-<h3> 👦 &nbsp;About Me </h3>
+<h3> 🙂 &nbsp;About Me </h3>
 
 - 🗺️ &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Science at Wrocław University of Science and Technology.
-- 💼 &nbsp; Working as a Tasks/Processes Automation Programmer at Nokia.
+- 🎓 &nbsp; Studying Computer Science (MSc) at Wrocław University of Science and Technology.
+- 💼 &nbsp; Working as a Backend Python Dev at Nokia.
 - 🌱 &nbsp; Learning more about Web Development.
-- 🎮 &nbsp; Competitive games and crossfit enjoyer.
+- 🎮 &nbsp; Competitive games and workout enjoyer.
+- 🗿   &nbsp; &nbsp; Anime, manga and manhwa connoisseur.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
