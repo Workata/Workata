@@ -1,4 +1,4 @@
-<h2> Hello there! I'm Jakub (Workata).</h2>
+<h2> Hello there!
 
 <h3> 🙂 &nbsp;About Me </h3>
 
