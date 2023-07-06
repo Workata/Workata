@@ -7,7 +7,7 @@
 - 💼 &nbsp; Working as a Backend Python Dev at Nokia.
 - 🌱 &nbsp; Learning more about Web Development.
 - 🎮 &nbsp; Competitive games and workout enjoyer.
-- 🗿   &nbsp; &nbsp; Anime, manga and manhwa connoisseur.
+- 🗿 &nbsp; Anime, manga and manhwa connoisseur.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
