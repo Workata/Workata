@@ -3,7 +3,7 @@
 <h3> 🙂 &nbsp;About Me </h3>
 
 - 🗺️ &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Science (MSc) at Wrocław University of Science and Technology.
+- 🎓 &nbsp; MSc - Computer Science (Wrocław University of Science and Technology).
 - 💼 &nbsp; Working as a Backend Python Dev at Nokia.
 - 🌱 &nbsp; Learning more about Web Development.
 - 🎮 &nbsp; Competitive games and workout enjoyer.
