@@ -44,19 +44,7 @@
 
 <br/>
 
-<a href="https://github.com/Workata">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Workata&theme=dark&show_icons=true&hide_rank=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Workata&theme=dark&layout=compact" />
-</a>
-
-<br/>
-
-<!-- <h3> 🤝🏻 &nbsp;Contact</h3>
-
-<p align="center">
-
-<!-- <a href="www.linkedin.com/in/jakub-tolsciuk"> -->
-  <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-<!-- </a> -->
-
-<!-- </p>
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Workata&theme=dark&show_icons=true&hide_rank=true" />
+<img height="180em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Workata&theme=dark&layout=donut" />
+</div>
