@@ -45,7 +45,7 @@
 <br/>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Workata&theme=dark&show_icons=true&hide_rank=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Workata&theme=react&show_icons=true&hide_rank=true" />
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Workata&theme=dark&layout=donut" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Workata&theme=react&layout=donut" />
 </div>
