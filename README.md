@@ -3,9 +3,8 @@
 <h3> 🙂 &nbsp;About Me </h3>
 
 - 🗺️ &nbsp; Exploring new technologies.
-- 🎓 &nbsp; MSc - Computer Science (Wroclaw University of Science and Technology).
-- 💼 &nbsp; Working as a Backend Python Dev.
-- 🌱 &nbsp; Learning more about Web Development.
+- 🎓 &nbsp; MSc / BEng - Computer Science (Wroclaw University of Science and Technology).
+- 💼 &nbsp; Working as a Python SW Eng. with Data (processing) background.
 - 🎮 &nbsp; Competitive games and workout enjoyer.
 - 🗿 &nbsp; Anime, manga and manhwa connoisseur.
 
