@@ -60,5 +60,6 @@ Doesn't work anymore
 -->
 <!-- https://github.com/marketplace/actions/github-readme-stats-action -->
 ![Stats](./profile/stats.svg)
+&nbsp; &nbsp;
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+<!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
